@@ -1,0 +1,19 @@
+{
+  "name": "formhelper",
+  "version": "1.0.0",
+  "description": "A validation helper for forms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suits-sandals/formhelper.git"
+  },
+  "author": "Suits & Sandals",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suits-sandals/formhelper/issues"
+  },
+  "homepage": "https://github.com/suits-sandals/formhelper#readme"
+}
